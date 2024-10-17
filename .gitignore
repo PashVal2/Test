@@ -1,0 +1,5 @@
+*.lib
+*.[ao]
+logs/*.txt
+
+
